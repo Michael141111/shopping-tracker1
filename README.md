@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Michael141111/shopping-tracker1/main/A_digital_vector_graphic_displays_a_logo_for_an_ap.png" width="200"/>
+</p>
+<p align="center">
   <img src="رابط_الصورة_اللي_نسخته" width="200"/>
 </p>
 # 📦 Shopping Tracker
