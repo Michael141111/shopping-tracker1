@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">إدارة المخزون والمشتريات</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="add">إضافة</string>
+    <string name="edit">تعديل</string>
+    <string name="delete">حذف</string>
+    <string name="all">الكل</string>
+    <string name="products">المنتجات</string>
+    <string name="categories">الفئات</string>
+    <string name="units">وحدات القياس</string>
+    <string name="purchase_orders">طلبات الشراء</string>
+    <string name="inventory">المخزون</string>
+    <string name="settings">الإعدادات</string>
+</resources>
